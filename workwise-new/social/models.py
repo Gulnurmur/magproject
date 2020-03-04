@@ -4,7 +4,7 @@ class Profile(models.Model):
     name = models.CharField('adi',max_length=20)
     surname = models.CharField('soyadi',max_length=30)
     image = models.ImageField(upload_to='images/')
-    rank = models.
+    
 
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
