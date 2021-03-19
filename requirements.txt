@@ -2,7 +2,7 @@ betterpath==0.2.2
 Click==7.0
 Django==2.2.8
 l==0.11.0
-Pillow==7.0.0
+Pillow==8.1.1
 pytz==2019.3
 sqlparse==0.3.1
 vcversioner==2.16.0.0
